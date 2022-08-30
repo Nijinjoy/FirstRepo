@@ -1,0 +1,20 @@
+button{
+    width: 70px;
+    height: 35px;
+    border-radius: 60px;
+    background-color: cornflowerblue;
+    color:yellow ;
+}
+button:hover{
+    background-color: darkmagenta;
+}
+body{
+    background-image: url("./images.jfif");
+    background-size: cover;
+}
+/*food gallery
+food name
+image
+price
+desc
+learn more*/

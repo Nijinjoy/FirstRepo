@@ -1,0 +1,68 @@
+body{
+    background-image: url("./burger1.jpg");
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h3{
+    color: rgb(3, 27, 27);
+    background-color: burlywood;
+    text-align: center;
+
+}
+.col{
+    width: 234px;
+    height: 400px;
+    background-color: rgb(145, 173, 177);
+    border-radius: 8px;
+    margin-top: 32px;
+    margin-left: 5px;
+    float: left;
+  
+}
+.col-1 img{
+    width: 100%;
+    height: 168px;
+    margin-top: -4px;
+    border-radius: 70px;
+}
+#id1{
+    text-align: center;
+}
+col-1 p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    background-color: rgb(234, 48, 48);
+    text-align: center;
+}
+button{
+    background-color: rgb(58, 147, 52);
+    border-radius: 6px;
+    width: 63px;
+    height: 41px;
+}
+#id2{
+    text-align: center;
+}
+.col-2 img{
+    width: 100%;
+    height: 168px;
+    border-radius: 106px;
+}
+ #id3{
+    text-align: center;
+}
+.col-3 img{
+    width: 100%;
+    height: 170px;
+    margin-top: -4px;
+    border-radius: 70px;
+}
+button :hover{
+    background-color: rgb(225, 26, 73);
+    color: beige;
+}
+

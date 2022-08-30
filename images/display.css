@@ -1,0 +1,25 @@
+.parent{
+width: 70%;
+height: 300px;
+background-color:rgb(5, 11, 165) ;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.col{
+    width: 200px;
+    height: 300px;
+    border: 2px black solid;
+}
+.col-1{
+    background-color: blueviolet;
+}
+.col-2{
+    background-color: brown;
+}
+.col-3{
+    background-color: cornflowerblue;
+}
+.col-4{
+background-color: darkorchid;
+}

@@ -1,0 +1,7 @@
+div{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(43, 36, 26);
+    position: fixed;
+    top: 250px;
+}

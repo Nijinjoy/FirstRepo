@@ -1,0 +1,17 @@
+.col{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: blueviolet;
+}
+.col{
+    background-color: brown;
+}
+.col-2{
+    background-color: burlywood;
+    left: 180px;
+}
+.col-3{
+    background-color: crimson;
+    left: 350px;
+}
